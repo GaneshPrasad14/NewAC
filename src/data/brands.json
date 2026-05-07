@@ -1,0 +1,79 @@
+[
+  {
+    "brandName": "LG",
+    "slug": "lg-service",
+    "applianceTypes": ["AC", "Refrigerator", "Washing Machine"],
+    "metaTitle": "LG AC, Fridge & Washing Machine Repair | Expert LG Service Center",
+    "metaDescription": "Top-rated LG appliance service. Expert mechanics for LG split AC repair, LG refrigerator service, and LG washing machine drum replacement. Doorstep service available.",
+    "heroTitle": "Expert LG Appliance Repair Solutions",
+    "contentPara1": "LG home appliances utilize advanced Dual Inverter technology and Smart Diagnosis features. Our specialized technical team is rigorously trained to decode complex LG-specific error codes like CH38 on Air Conditioners or OE/UE on washing machines across all generation models. We never compromise on quality, sourcing 100% genuine LG spare parts—from ultra-efficient inverter compressors to high-density copper coils.",
+    "contentPara2": "Whether you urgently need a chemical deep wash for your LG AI Dual Inverter AC, an immediate PCB replacement for your InstaView Door-in-Door refrigerator, or direct drive motor repair for your front-load washer, our dedicated squad delivers factory-tier maintenance instantly.",
+    "seoKeywords": ["LG AC Service near me", "LG Refrigerator Repair", "LG Washing machine repair", "LG Dual Inverter AC service", "LG fridge compressor fix", "LG AC water leakage repair", "LG front load repair"]
+  },
+  {
+    "brandName": "Samsung",
+    "slug": "samsung-service",
+    "applianceTypes": ["AC", "Refrigerator", "Washing Machine"],
+    "metaTitle": "Samsung AC & Appliance Repair Services | Trusted Service Center",
+    "metaDescription": "Specialized Samsung appliance repair. We fix Samsung WindFree ACs, Digital Inverter fridges, and EcoBubble washing machines. Book same day doorstep service.",
+    "heroTitle": "Certified Samsung Appliance Care",
+    "contentPara1": "Samsung represents the cutting edge of digital appliance engineering. Troubleshooting their proprietary WindFree cooling systems and Digital Inverter compressors requires highly specialized knowledge. Our mechanics carry exact diagnostic arrays to pinpoint motherboard and sensory failures in Samsung smart devices within minutes, ensuring a first-visit resolution rate of over 95%.",
+    "contentPara2": "Our extensive Samsung service covers comprehensive AC gas recharging, resolving eco-bubble tub blockages in washers, and fixing ice-buildup issues in SpaceMax double door refrigerators. We restore your premium Samsung appliances to their peak operational silence and energy-efficiency.",
+    "seoKeywords": ["Samsung AC repair", "Samsung Fridge service", "Samsung washing machine service near me", "Samsung WindFree AC repair", "Samsung digital inverter fridge fix", "Samsung top load washer repair"]
+  },
+  {
+    "brandName": "Voltas",
+    "slug": "voltas-service",
+    "applianceTypes": ["AC", "Water Cooler"],
+    "metaTitle": "Voltas AC Repair & Service | Authorized-Level Technicians",
+    "metaDescription": "Fast & reliable Voltas AC service. Specialist technicians for Voltas window AC, split AC, and inverter AC gas filling, installation, and deep cleaning.",
+    "heroTitle": "Master Technicians for Voltas AC Systems",
+    "contentPara1": "Voltas is an undisputed cooling pioneer in the Indian market, engineered specifically to endure our extreme summer heatscapes. Our HVAC technicians have mastered the intricate internal layouts of all Voltas cooling arrays—from heavy-duty 2-Ton Window units to their newest Maha-Adjustable Inverter Split systems.",
+    "contentPara2": "From detecting micro-leaks in the condenser tubes and recharging highly pressurized R32 refrigerants, to eliminating biological blockages causing water leaks inside your bedroom, we assure your Voltas unit receives the ultimate cooling payload restoration to combat the peak summer climate.",
+    "seoKeywords": ["Voltas AC service near me", "Voltas split AC installation", "Voltas window AC repair", "Voltas AC gas filling cost", "Voltas AC not cooling", "Voltas AC water leakage fix"]
+  },
+  {
+    "brandName": "Daikin",
+    "slug": "daikin-service",
+    "applianceTypes": ["AC"],
+    "metaTitle": "Daikin AC Service & Repair | Premium HVAC Solutions",
+    "metaDescription": "Premium Daikin AC repair. Specialist engineers for Daikin inverter ACs, VRV systems, and premium residential cooling logic. Quick response.",
+    "heroTitle": "Precision Engineering For Daikin Systems",
+    "contentPara1": "Daikin sets the global benchmark for ultra-premium, whisper-quiet air conditioning. Repairing a Daikin requires surgical precision because of their highly sensitive electronic expansion valves and intricate Streamer Discharge technology. Our elite squad handles Daikin systems with extreme care, ensuring absolute calibration of coolant flow and sensory data.",
+    "contentPara2": "We offer dedicated Daikin maintenance encompassing complete swing-motor alignments, advanced chemical PCB washing, complete anti-corrosion condenser coating, and factory-spec gas pressurization, guaranteeing you experience the signature absolute silence and chill that Daikin is famous for.",
+    "seoKeywords": ["Daikin AC repair", "Daikin inverter AC service", "Daikin AC PCB repair", "Daikin gas filling", "Daikin AC installation near me", "Daikin air conditioner service"]
+  },
+  {
+    "brandName": "Whirlpool",
+    "slug": "whirlpool-service",
+    "applianceTypes": ["Refrigerator", "Washing Machine", "AC"],
+    "metaTitle": "Whirlpool Fridge & Washer Service | Reliable Appliance Repair",
+    "metaDescription": "Get your Whirlpool 6th Sense refrigerator and fully automatic washing machines fixed by expert mechanics today. Authentic parts used.",
+    "heroTitle": "Whirlpool 6th Sense Appliance Servicing",
+    "contentPara1": "Whirlpool appliances rely heavily on their dynamic 6th Sense algorithmic boards which actively adapt to Indian household loads. When a Whirlpool system crashes, generic rebooting fails. Our technical experts use dedicated diagnostic software interfaces to read and reset Whirlpool logic boards effectively, restoring total functionality instantly.",
+    "contentPara2": "Whether it's a terrifying freezing issue in your Intellifresh refrigerator or a violent spin-cycle imbalance in your top-load 360-Bloomwash machine, we deploy only manufacturer-recommended shock absorbers, defrost relays, and sealed compressors to preserve your appliance's longevity.",
+    "seoKeywords": ["Whirlpool fridge repair", "Whirlpool double door service", "Whirlpool washing machine repair near me", "Whirlpool top load washer service", "Whirlpool AC repair"]
+  },
+  {
+    "brandName": "IFB",
+    "slug": "ifb-service",
+    "applianceTypes": ["Washing Machine", "AC"],
+    "metaTitle": "IFB Washing Machine & AC Service | Expert IFB Mechanics",
+    "metaDescription": "Professional IFB appliance care. We specialize in IFB front-load washing machine drum repair, pump replacements, and IFB split AC servicing.",
+    "heroTitle": "Specialized IFB Appliance Tech Support",
+    "contentPara1": "IFB dominates the premium front-loading washing machine segment with extreme drum-washing mechanics. Our repair team specializes profoundly in IFB’s complex heavy-duty drum suspensions, internal heater coils, and highly sensitive crescent moon drum engineering. We resolve terrifying error sequences easily.",
+    "contentPara2": "Beyond resolving severe drum scaling or burnt drain motors in IFB washers, our experts also perform deep-tier servicing on IFB Fastcool air conditioners. We promise zero compromise on the heavy-duty stability your IFB appliances were built to deliver.",
+    "seoKeywords": ["IFB washing machine repair near me", "IFB front load service", "IFB AC repair", "IFB washing machine drum repair", "IFB error code fix"]
+  },
+  {
+    "brandName": "Kent",
+    "slug": "kent-ro-service",
+    "applianceTypes": ["Water Purifier"],
+    "metaTitle": "Kent RO Water Purifier Service | Filter & Membrane Change",
+    "metaDescription": "Authorized-level Kent RO service. Professional technician for Kent membrane replacement, TDS adjustment, and UV filter upgrades. Secure your family's health.",
+    "heroTitle": "Pure Water Solutions For Kent Systems",
+    "contentPara1": "Kent RO purifiers utilize a dense, multi-stage filtration grid spanning RO, UV, UF, and TDS-controlled matrices to deliver supreme mineral water. Servicing a Kent system isn’t just about changing a filter—it is about scientifically recalibrating the output TDS logic to perfectly match the local hard water toxicity.",
+    "contentPara2": "Our specialized water purification tech squad uses imported digital TDS meters to ensure your Kent system outputs water at perfect pH and mineral balance. We exclusively install genuine Kent carbon cartridges and high-rejection RO membranes ensuring pure safety.",
+    "seoKeywords": ["Kent RO service near me", "Kent water purifier repair", "Kent RO installation", "Kent membrane replacement cost", "Kent filter change", "Kent UV lamp repair"]
+  }
+]

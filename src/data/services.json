@@ -1,0 +1,190 @@
+[
+  {
+    "serviceName": "AC Service & Repair",
+    "slug": "ac-service",
+    "icon": "Thermometer",
+    "shortDescription": "Complete AC servicing including deep cleaning, gas refill, and performance optimization.",
+    "description": "Our comprehensive AC service and repair solutions cover everything from routine maintenance to complex repairs. Our certified technicians perform thorough diagnostics to identify issues before they become costly problems. We service all types of air conditioners including split ACs, window ACs, cassette ACs, tower ACs, and portable units. Our standard service includes filter cleaning, coil washing, drain line clearing, gas pressure check, electrical connection inspection, and overall performance testing. We use eco-friendly cleaning solutions and follow manufacturer-recommended service procedures to maintain your warranty.",
+    "brands": [
+      "Samsung",
+      "LG",
+      "Daikin",
+      "Voltas",
+      "Blue Star",
+      "Carrier",
+      "Hitachi",
+      "O General",
+      "Panasonic",
+      "Whirlpool",
+      "Godrej",
+      "Lloyd"
+    ],
+    "faqs": [
+      {
+        "question": "How often should I service my AC?",
+        "answer": "We recommend servicing your AC every 3-4 months for optimal performance. Regular servicing improves cooling efficiency by up to 30% and can reduce electricity bills significantly."
+      },
+      {
+        "question": "What is included in a basic AC service?",
+        "answer": "A basic AC service includes filter cleaning, indoor & outdoor unit inspection, drain pipe cleaning, gas pressure check, electrical connection tightening, and a performance test run."
+      },
+      {
+        "question": "Do you provide warranty on repairs?",
+        "answer": "Yes, we provide a 30-day service warranty on all repairs and a 6-month warranty on replaced spare parts. All parts used are genuine manufacturer parts."
+      },
+      {
+        "question": "How long does an AC service take?",
+        "answer": "A standard AC service takes approximately 45-60 minutes. Deep cleaning services may take 90-120 minutes depending on the condition of the unit."
+      }
+    ]
+  },
+  {
+    "serviceName": "Kitchen Chimney Service",
+    "slug": "chimney-service",
+    "icon": "Wind",
+    "shortDescription": "Professional kitchen chimney cleaning, repair, and deep service for all brands.",
+    "description": "Keep your kitchen smoke-free and hygienic with our expert chimney service. We provide deep cleaning (oil & grease removal), motor repair, filter replacement, and installation for all types of kitchen chimneys — including wall-mounted, island, and built-in models. Our technicians use high-quality degreasers and advanced cleaning tools to ensure your chimney operates at peak suction power. Regular servicing prevents oil dripping and keeps your kitchen fresh.",
+    "brands": [
+      "Faber",
+      "Hindware",
+      "Glen",
+      "Sunflame",
+      "Elica",
+      "Prestige",
+      "Kaff",
+      "Blowhot"
+    ],
+    "faqs": [
+      {
+        "question": "How often should I clean my kitchen chimney?",
+        "answer": "For moderate cooking, we recommend a deep cleaning every 3-4 months. For heavy frying or oily cooking, monthly filter cleaning and deep service every 2 months is best."
+      },
+      {
+        "question": "Why is my chimney making noise?",
+        "answer": "Excessive noise is usually caused by grease buildup on the motor fan or loose mounting. Our technician will clean the motor and balance the unit to reduce noise."
+      },
+      {
+        "question": "Do you provide filter replacement?",
+        "answer": "Yes, we provide genuine mesh and baffle filters for all major chimney brands. If your filter is damaged or choked beyond cleaning, we can replace it on-site."
+      }
+    ]
+  },
+  {
+    "serviceName": "Refrigerator Repair",
+    "slug": "fridge-repair",
+    "icon": "Box",
+    "shortDescription": "Expert refrigerator repair for all brands — single door, double door & side-by-side.",
+    "description": "Our refrigerator repair services cover all types and brands of fridges. Whether your fridge is not cooling, making unusual noises, leaking water, or has a faulty compressor, our technicians can diagnose and fix the issue efficiently. We carry common spare parts in our service vehicles to ensure same-day repairs in most cases. Our services include thermostat replacement, compressor repair, gas charging, door seal replacement, defrost timer repair, and control board repair.",
+    "brands": [
+      "Samsung",
+      "LG",
+      "Whirlpool",
+      "Godrej",
+      "Haier",
+      "Bosch",
+      "Panasonic",
+      "Hitachi",
+      "Kelvinator"
+    ],
+    "faqs": [
+      {
+        "question": "Why is my fridge not cooling properly?",
+        "answer": "Common causes include low gas levels, dirty condenser coils, faulty thermostat, blocked vents, or a worn door seal. Our technician will diagnose the exact cause during the service visit."
+      },
+      {
+        "question": "Can you repair inverter refrigerators?",
+        "answer": "Yes, our technicians are trained to repair both conventional and inverter technology refrigerators from all major brands."
+      },
+      {
+        "question": "How quickly can you come for a fridge repair?",
+        "answer": "We typically schedule fridge repairs within 4-6 hours of booking. Emergency services are available."
+      }
+    ]
+  },
+  {
+    "serviceName": "Washing Machine Repair",
+    "slug": "washing-machine-repair",
+    "icon": "RotateCcw",
+    "shortDescription": "Washing machine repair for front-load, top-load & semi-automatic models.",
+    "description": "From drum issues to electronic control problems, our washing machine repair service handles it all. We repair front-loading, top-loading, and semi-automatic washing machines from all major brands. Common issues we fix include water not draining, excessive vibration, drum not spinning, error codes, water leakage, and timer/control panel malfunctions. Our technicians use genuine spare parts and provide warranty on all repairs.",
+    "brands": [
+      "Samsung",
+      "LG",
+      "Whirlpool",
+      "IFB",
+      "Bosch",
+      "Panasonic",
+      "Godrej",
+      "Haier"
+    ],
+    "faqs": [
+      {
+        "question": "My washing machine is vibrating too much. What could be wrong?",
+        "answer": "Excessive vibration is usually caused by an unbalanced load, worn shock absorbers, or a damaged drum bearing. Our technician will inspect and fix the root cause."
+      },
+      {
+        "question": "Do you repair fully automatic washing machines?",
+        "answer": "Yes, we repair all types — semi-automatic, fully automatic top-load, and fully automatic front-load washing machines."
+      }
+    ]
+  },
+  {
+    "serviceName": "Water Purifier Service",
+    "slug": "water-purifier-service",
+    "icon": "Droplets",
+    "shortDescription": "Expert water purifier repair, installation, filter replacement & AMC for all brands.",
+    "description": "Our professional water purifier service keeps your drinking water pure and safe. We provide complete maintenance for all types of RO, UV, and UF water purifiers. Our services include multi-stage filter replacement, membrane cleaning, pump repair, TDS adjustment, leakage fix, and annual maintenance contracts (AMC). Our technicians use genuine high-quality filters and RO membranes to ensure 100% pure water output. We service all major brands including Kent, Aquaguard, Pureit, and Livpure.",
+    "brands": [
+      "Kent",
+      "Pureit",
+      "Aquaguard",
+      "Havells",
+      "Livpure",
+      "Blue Star",
+      "HUL Pureit",
+      "AO Smith"
+    ],
+    "faqs": [
+      {
+        "question": "How often should I replace water purifier filters?",
+        "answer": "We recommend replacing sediment and carbon filters every 6 months and the RO membrane every 12-18 months, depending on the TDS level and water usage."
+      },
+      {
+        "question": "What is included in a water purifier AMC?",
+        "answer": "Our AMC includes 3-4 routine services per year, unlimited breakdown calls, and replacement of all filters (sediment, carbon, post-carbon) and the RO membrane."
+      },
+      {
+        "question": "Do you test water TDS after service?",
+        "answer": "Yes, our technicians carry TDS meters to verify the water quality and adjust the TDS level to ensure it is within safe drinking limits according to WHO standards."
+      }
+    ]
+  },
+  {
+    "serviceName": "LED TV Repair",
+    "slug": "led-tv-repair",
+    "icon": "Tv",
+    "shortDescription": "Panel repair, backlight replacement, and motherboard service for all LED/Smart TVs.",
+    "description": "Our specialized LED TV repair service handles all types of display and electronic issues. From broken panels and backlight failures to motherboard repairs and sound problems, our technicians are equipped with advanced tools to fix your Smart TV. We service all major brands including Samsung, LG, Sony, Mi, and OnePlus. We use genuine components and provide a warranty on all screen and board-level repairs. Whether it's a 32-inch LED or an 85-inch 4K OLED, we provide safe doorstep service with expert handling.",
+    "brands": [
+      "Samsung",
+      "LG",
+      "Sony",
+      "Mi",
+      "OnePlus",
+      "Haier",
+      "Panasonic",
+      "TCL",
+      "Vu"
+    ],
+    "faqs": [
+      {
+        "question": "Can a broken LED TV panel be repaired?",
+        "answer": "If the glass is cracked, the panel usually needs replacement. However, vertical lines or flickering caused by COF issues can often be repaired using our advanced bonding machines."
+      },
+      {
+        "question": "Why is my TV screen dark but I can hear sound?",
+        "answer": "This is typically caused by a failure in the LED backlight strips. We can replace the complete set of backlights to restore your TV's brightness to original levels."
+      }
+    ]
+  }
+]
